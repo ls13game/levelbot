@@ -4,6 +4,6 @@ public class Const {
 
     public static final String TOKEN = "";
     public static final String PREFIX = "!";
-    public static final String JSON_PATH = "C:\\Users\\Pischke\\IdeaProjects\\Levelbot\\src\\main\\resources\\members.json";
+    public static final String JSON_PATH = "C:\\Users\\User\\IdeaProjects\\Levelbot\\src\\main\\resources\\members.json";
 
 }
